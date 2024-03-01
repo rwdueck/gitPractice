@@ -1,1 +1,3 @@
 new file - main
+
+This references feature 2
